@@ -2,83 +2,93 @@
 
 # Mohammed Zayer Alam
 
-**Computer Science Student · Software & Systems**
+**CSE Student · Learning by building**
 
-<br/>
-
-*I'm interested in how things are built, not just how to use them.*
+I'm interested in how things are built, not just how to use them.
 
 </div>
 
 ---
 
-### About
-
-I'm a CSE student interested in understanding software from the ground up.
-
-Most of my time goes into learning, experimenting with ideas, and working on projects. I'm also exploring open source, learning how large codebases work, and trying to improve through practical work.
-
-Currently figuring things out, one project at a time.
-
-### Selected Projects
+## Open-source & projects
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-**[AFTERSTATE](https://github.com/zayeralam/AFTERSTATE)**
+<a href="https://github.com/zayeralam/FromZero">
+<img src="https://img.shields.io/badge/FromZero-explore-161b22?style=for-the-badge&logo=github" alt="FromZero"/>
+</a>
 
-A local-first commitment accountability dashboard with tracking, transparent risk heuristics and a recovery queue.
-
-</td>
-<td width="50%">
-
-**[FromZero](https://github.com/zayeralam/FromZero)**
-
-A lightweight explorer for navigating build-your-own-X tutorials.
+<br/><sub>Build-your-own-X explorer</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-**[SERVEDESK](https://github.com/zayeralam/rbs.java)**
+<a href="https://github.com/zayeralam/AFTERSTATE">
+<img src="https://img.shields.io/badge/AFTERSTATE-build-161b22?style=for-the-badge&logo=github" alt="AFTERSTATE"/>
+</a>
 
-A menu-driven Java restaurant billing application.
+<br/><sub>Local-first accountability system</sub>
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-**[LLVM Project](https://github.com/llvm/llvm-project)**
+<a href="https://github.com/zayeralam/rbs.java">
+<img src="https://img.shields.io/badge/SERVEDESK-Java-161b22?style=for-the-badge&logo=openjdk" alt="SERVEDESK"/>
+</a>
 
-Contributing to compiler infrastructure; see my open pull request below.
+<br/><sub>Restaurant billing console app</sub>
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://github.com/zayeralam/llvm-project">
+<img src="https://img.shields.io/badge/LLVM-Open%20PR-161b22?style=for-the-badge&logo=llvm" alt="LLVM"/>
+</a>
+
+<br/><sub>Compiler infrastructure</sub>
 
 </td>
 </tr>
 </table>
 
-### Open Source
+### Open-source contribution
 
-**LLVM — ClangIR / X86**
+<a href="https://github.com/llvm/llvm-project/pull/217326">LLVM · PR #217326</a>
 
-[PR #217326](https://github.com/llvm/llvm-project/pull/217326) · Open
+**[CIR] [X86] Add support for vfmadd and vfmaddsub builtins.**
 
-Add support for `vfmadd` and `vfmaddsub` builtins.
+<sub>Open pull request · August 2026</sub>
 
-### Technologies
+---
 
-<p>
-<img src="https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+## About
 
-### GitHub
+I'm a CSE student interested in understanding software from the ground up.
+
+Most of my time goes into learning, experimenting with ideas, and working on projects. I'm also trying to get involved in open source and learn from people who build software.
+
+*Currently figuring things out, one project at a time.*
+
+## Tech
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
+<td align="center"><img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+</tr>
+</table>
+
+---
+
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zayeralam&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayeralam&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zayeralam&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayeralam&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
 
 </div>
 
@@ -86,6 +96,6 @@ Add support for `vfmadd` and `vfmaddsub` builtins.
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-zayer-alam-02ab5b3a6/)
+<a href="https://www.linkedin.com/in/mohammed-zayer-alam-02ab5b3a6/">LinkedIn</a> · <a href="https://github.com/zayeralam">GitHub</a>
 
 </div>
